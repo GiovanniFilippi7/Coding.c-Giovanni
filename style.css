@@ -1,0 +1,42 @@
+header{text-align:center;}
+
+body{background-image: url(img/sfondo.jpg);
+background-size:cover;}
+
+img{width: 250px}
+
+div{text-align:center;}
+
+h2{color:rgb(0,255,0);}
+
+div{background-color:rgb(0, 255, 0);}
+
+div{line-height:40px}
+
+span{color: white;
+  font-size: 20px;}
+
+p{color: white;
+font-size: 17px;
+}
+
+<!-- Stile testo -->
+p{font-family: verdana;}
+input{font-family: verdana;}
+h2{font-family: verdana;}
+span{font-family: verdana;}
+
+.carica{background-color:rgb(244,164,96);
+width: 500px;
+height: 25px;
+border-radius: 5px}
+
+.carica2{background-color: rgb(34,139,34);
+width: 750px;
+height: 25px;
+border-radius: 5px}
+
+.carica3{background-color: rgb(205,92,92);
+width: 130px;
+height: 25px;
+border-radius: 5px}
